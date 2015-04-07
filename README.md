@@ -1,5 +1,5 @@
 # puppet_run
-A wrapper script and launchd for running open source puppet
+A wrapper script and launchd for running open source puppet on OS X.
 
 To use this wrapper, do the following:
 
